@@ -1,4 +1,4 @@
-<div align="center">
+
 ## Hi there 👋, my name is Oleksii
 ## I am Junior Full Stack Developer
   
@@ -30,4 +30,3 @@ The profession of an IT developer has become for me not only a job, but also a l
 
 ## Some of my Github Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShevchenkoOl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-</div>
