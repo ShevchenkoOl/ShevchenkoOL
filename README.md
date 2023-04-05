@@ -5,8 +5,8 @@
 The profession of an IT developer has become for me not only a job, but also a life hobby, thanks to which I like not only writing code and bringing it to perfection!  
 ## Connect with me  
 [![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:uzlabini@gmail.com)](mailto:uzlabini@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=linkedin.com/in/oleksii-shevchenko-535ab61b8/)]
-(https://www.linkedin.com/in/shevchenkool/) [![Github Badge](https://img.shields.io/badge/-yermakovaa-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yermakovaa/)](https://www.github.com/yermakovaa/) <p align='left'>I'm 💚 Front-end 💚 Developer</p><p align='left'> You can view my portfolio <a href='https://yer-portfolio.netlify.app/' target=_blank><u>here</u>.</a></p>
+[![Linkedin Badge](https://img.shields.io/badge/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=linkedin.com/in/oleksii-shevchenko-535ab61b8/)
+[![Github Badge](https://img.shields.io/badge/-yermakovaa-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yermakovaa/)](https://www.github.com/yermakovaa/) <p align='left'>I'm 💚 Front-end 💚 Developer</p><p align='left'> You can view my portfolio <a href='https://yer-portfolio.netlify.app/' target=_blank><u>here</u>.</a></p>
 ## My Skill Set  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
