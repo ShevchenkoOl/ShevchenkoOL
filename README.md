@@ -5,7 +5,7 @@
 The profession of an IT developer has become for me not only a job, but also a life hobby, thanks to which I like not only writing code and bringing it to perfection!  
 ## Connect with me  
 [![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:uzlabini@gmail.com)](mailto:uzlabini@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/oleksii-shevchenko-535ab61b8)](https://linkedin.com/in/oleksii-shevchenko-535ab61b8/)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin.com/in/oleksii-shevchenko-535ab61b8?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/oleksii-shevchenko-535ab61b8)](https://linkedin.com/in/oleksii-shevchenko-535ab61b8/)
 [![Github Badge](https://img.shields.io/badge/-yermakovaa-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yermakovaa/)](https://www.github.com/yermakovaa/) <p align='left'>I'm 💚 Front-end 💚 Developer</p><p align='left'> You can view my portfolio <a href='https://yer-portfolio.netlify.app/' target=_blank><u>here</u>.</a></p>
 ## My Skill Set  
 <div align="center">  
