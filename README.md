@@ -25,6 +25,5 @@ The profession of an IT developer has become for me not only a job, but also a l
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
 <a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
 </div>
-<!-- ## Some of my Github Stats
- ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShevchenkoOl&show_icons=true&count_private=true&hide_border=true" align="center" /></div> -->
+## Some of my Github Stats
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShevchenkoOl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
