@@ -21,19 +21,8 @@ The profession of an IT developer has become for me not only a job, but also a l
 </div>
 
 ## Connect with me  
-<div align="center">
-<img src="https://img.shields.io/badge/-uzlabini@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:uzlabini@gmail.com)/>(mailto:uzlabini@gmail.com)
-         
-         
-<a href="https://github.com/https://github.com/ShevchenkoOl" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-                                                                                                                                                  
-                                                                                                                                                  
-<a href="https://linkedin.com/in/linkedin.com/in/oleksii-shevchenko-535ab61b8" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> 
-
-</div>  
+[![Gmail Badge](https://img.shields.io/badge/-uzlabini@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yermak1037@gmail.com)](mailto:yermak1037@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-yermakovaa-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yermakovaa/)](https://www.linkedin.com/in/yermakovaa/) [![Github Badge](https://img.shields.io/badge/-yermakovaa-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yermakovaa/)](https://www.github.com/yermakovaa/) <p align='left'>I'm 💚 Front-end 💚 Developer</p><p align='left'> You can view my portfolio <a href='https://yer-portfolio.netlify.app/' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
  ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShevchenkoOl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
