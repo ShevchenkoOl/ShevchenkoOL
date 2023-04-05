@@ -1,16 +1,8 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width:50" />
-</div>  
-  
-
-### my name is Oleksii, I am Junior Full-Stack Developer  
+## Hi there 👋, my name is Oleksii
+## I am Junior Full Stack Developer
   
 
 The profession of an IT developer has become for me not only a job, but also a life hobby, thanks to which I like not only writing code and bringing it to perfection!  
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <div align="center">  
@@ -30,6 +22,7 @@ The profession of an IT developer has become for me not only a job, but also a l
 
 ## Connect with me  
 <div align="center">
+[![Gmail Badge](https://img.shields.io/badge/-uzlabini@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:uzlabini@gmail.com)](mailto:uzlabini@gmail.com)
 <a href="https://github.com/https://github.com/ShevchenkoOl" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
