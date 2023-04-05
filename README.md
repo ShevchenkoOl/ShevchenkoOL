@@ -1,5 +1,5 @@
 
-## Hi there 👋, my name is Oleksii
+## <div align="center">Hi there 👋, my name is Oleksii</div>
 ## I am Junior Full Stack Developer
   
 
