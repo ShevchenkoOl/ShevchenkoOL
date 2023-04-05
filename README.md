@@ -11,7 +11,7 @@ The profession of an IT developer has become for me not only a job, but also a l
 <!-- <p align='left'>I'm 💚 Front-end 💚 Developer</p><p align='left'> You can view my portfolio <a href='https://yer-portfolio.netlify.app/' target=_blank><u>here</u>.</a></p>
  -->
 ## My Skill Set  
-<div align="center">  
+<div align="left">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
