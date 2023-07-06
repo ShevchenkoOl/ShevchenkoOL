@@ -6,7 +6,7 @@
 The profession of an IT developer has become for me not only a job, but also a life hobby, thanks to which I like not only writing code and bringing it to perfection! 
 
 ## Connect with me
-[![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:uzlabini@gmail.com)](mailto:uzlabini@gmail.com) 
+[![Gmail BadgeOleksii Shevchenko](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:uzlabini@gmail.com)](mailto:uzlabini@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/oleksii-shevchenko-535ab61b8)](https://linkedin.com/in/oleksii-shevchenko-535ab61b8/)
 [![Github Badge](https://img.shields.io/badge/-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ShevchenkoOl)](https://www.github.com/ShevchenkoOl/)
 
