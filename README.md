@@ -1,6 +1,6 @@
 
 ## Hi there 👋, my name is Oleksii
-## I am Junior Full Stack Developer
+## I am Full Stack Developer
   
 
 The profession of an IT developer has become for me not only a job, but also a life hobby, thanks to which I like not only writing code and bringing it to perfection! 
